@@ -1,5 +1,3 @@
-
-
 # xylophone 🎹
 
 ## Getting Started
